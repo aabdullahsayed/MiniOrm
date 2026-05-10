@@ -3,7 +3,7 @@
     "MiniORM": {
       "commandName": "Project",
       "environmentVariables": {
-        "MINIORM_CONN": "Host=localhost;Username=postgres;Password=sayedbhai"
+        "MINIORM_CONN": "Host=localhost;Username=postgres;Password="
       }
     }
   }
